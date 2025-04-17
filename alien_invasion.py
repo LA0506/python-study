@@ -23,7 +23,7 @@ from alien import Alien
 # 9.提高难度，增加外星人得分
 # 10.储存最高分
 # 11.显示等级
-
+#这是一个修改
 
 
 class AlienInvasion:
